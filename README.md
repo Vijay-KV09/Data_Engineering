@@ -1,8 +1,7 @@
 **Overview**
 This project focuses on analyzing trending data from YouTube using a dataset from Kaggle. 
-The data is processed and managed using AWS services such as S3 and Glue. Metadata is extracted to create tables for further analysis.
-
-**Project Workflow**
+The data is processed and managed using AWS services such as S3 and Glue. Metadata is extracted to create tables for further analysis.  
+**Project Workflow**  
 **1.Data Collection:**
 
 Downloaded YouTube trending dataset from Kaggle.
